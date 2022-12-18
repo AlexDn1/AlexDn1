@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @AlexDn1
+- I am testing blockchain projects
 - 👀 I’m interested in sport,communities.
 - 🌱 I’m currently learning institute.
 - 💞️ I’m looking to collaborate on
